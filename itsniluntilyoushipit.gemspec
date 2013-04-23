@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Itsniluntilyoushipit::VERSION
   spec.authors       = ["José Tomás Albornoz"]
   spec.email         = ["jojo@eljojo.net"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{The only gem in the world that's capable of telling you if your project is nil or not}
+  spec.summary       = %q{The only gem in the world that's capable of telling you if your project is nil or not}
   spec.homepage      = ""
   spec.license       = "MIT"
 
