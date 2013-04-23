@@ -1,5 +1,8 @@
 require "itsniluntilyoushipit/version"
 
 module Itsniluntilyoushipit
-  # Your code goes here...
+  class Isitnil
+
+
+  end
 end
