@@ -10,7 +10,7 @@ Install it yourself as:
 
 ## Usage
 
-    $ isitnil
+    $ is_it_nil
 
 ## Contributing
 
