@@ -1,0 +1,11 @@
+#!/usr/bin/env ruby
+require 'itsniluntilyoushipit'
+puts "Has it been shipped?"
+shipped = gets.strip.downcase[0]
+is_it_nil_processor = Itsniluntilyoushipit::Isitnil.new
+is_it_nil = is_it_nil_processor.is_it_nil?(:shipped => shipped)
+if is_it_nil then 
+  puts "your project it's nil :("
+else
+  puts "yay! it's not nil, you shipped it!"
+end
